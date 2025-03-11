@@ -13,7 +13,7 @@ The goal of this project is to explore the dataset through dimensional modeling 
 - **Attributes**:
   - Ride type, distance, price, weather conditions, ride timestamps, source and destination locations, and more.
   
-The dataset is sourced from Kaggle, uploaded by Bikram Maharjan, a data science master's student. You can download the dataset in CSV format and find additional information about each field at the Kaggle page [here]([https://www.kaggle.com/datasets/brllrb/uber-and-lyft-dataset-boston-ma)].
+The dataset is sourced from Kaggle, uploaded by Bikram Maharjan, a data science master's student. You can download the dataset in CSV format and find additional information about each field at the Kaggle page [here](https://www.kaggle.com/datasets/brllrb/uber-and-lyft-dataset-boston-ma).
 
 ## ETL Process
 
